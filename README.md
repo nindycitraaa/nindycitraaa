@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nindy Citra Amalyani</h1>
-<h3 align="center">Hello, my name is Nindy Citra Amalyani  you can call me Nindy .I was born in Probolinggo. I’m 17 years old. My house is in East Java, Indonesia, I'm a student at Telkom Malang High School. Speaking of a hobby, my hobby is playing baasketball</h3>
+<h3 align="center">Hello, my name is Nindy Citra Amalyani  you can call me Nindy .I was born in Probolinggo. I’m 17 years old. My house is in East Java, Indonesia, I'm a student at Telkom Malang High School. Speaking of hobby,my hobbies are playing badminton, playing basketball and cooking </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nindycitraaa&label=Profile%20views&color=0e75b6&style=flat" alt="nindycitraaaa" /> </p>
 
 
 - 🔭 I’m currently studying on *SMK TELKOM MALANG*
 
-- 🌱 I’m currently learning *Framework Node.js and React.js*
+- 🌱 I’m currently learning *Framework Node.js & React*
 
 - 💬 Ask me about *anything*
 
