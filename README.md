@@ -10,7 +10,7 @@
 
 - 💬 Ask me about *anything*
 
-- 📫 How to reach me **https://www.instagram.com/nicazxz/?hl=id**
+- 📫 How to reach me nindyamalyani71@gmail.com
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
