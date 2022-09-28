@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nindy Citra Amalyani</h1>
-<h3 align="center">Hello, my name is Nindy Citra Amalyani  you can call me Nindy </h3>
+<h3 align="center">Hello, my name is Nindy Citra Amalyani ,  you can call me Nindy </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nindycitraaa&label=Profile%20views&color=0e75b6&style=flat" alt="nindycitraaaa" /> </p>
 
