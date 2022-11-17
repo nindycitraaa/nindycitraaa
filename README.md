@@ -20,7 +20,7 @@
 <p align="left">
 
 
-<a href="https://www.instagram.com/nicazxz/?hl=id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nindyamlyn/?hl=id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n" height="30" width="40" /></a>
 
 </p>
 
