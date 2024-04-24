@@ -10,7 +10,7 @@
 
 - 💬 Ask me about *anything*
 
-- 📫 How to reach me nindyamalyani71@gmail.com
+- 📫 How to reach me nindycitraa8@gmail.com
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
